@@ -1,0 +1,22 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAABwAFVmB1AAAGUHZXYHZQZQZnZmdlVmdgBlZneIWGcHAFB2h4iIdQBQdneIyIhYdlB2h4iIyFh2UHaHjIiIWHZQdoeIjMhYdlB2d4iIiFh2AFB2h4yIdQAAZWZ3iFh2B1BmdmZmVWZ2AGUHZWYHZQYAcABlZgdQAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "GearAnimation1"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAUGYHUAYAAABldgBldgAABlBmV2YHAFB2ZneIVQUFUHZ2h4jIVXYAZXaIjIhYdgBgh4iIiFh2UGCHyIiMWGBQdoeIiIhYAFB2d8iIiFUGUHZ2h4iMVXYABWV2iFhVdgAAZXZldgAFAFBmB1BmBwAAAHYAZXYAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "GearAnimation2"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAZQdVdgAAAFB2UGYHBQAAUHZlZgdVBwBlZ3eIWGV2UAB2h4iIZXZQdneIiIhYcFB2h4iIiFgGUHaHiIiIWHYAZYeIiIhYdlBgd4iIiFhlUHZ2h4iIBVBQZmd3iFhlBwBlB2VmV3YAAAAGZXZQdgAAAFBmB2UHAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "GearAnimation3"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}

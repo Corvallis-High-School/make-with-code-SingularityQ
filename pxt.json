@@ -1,14 +1,42 @@
 {
-    "name": "Untitled",
-    "version": "0.0.0",
-    "files": [
-        "main.ts"
-    ],
-    "supportedTargets": [
-        "arcade"
-    ],
+    "name": "Block-dodging game",
+    "description": "",
     "dependencies": {
         "device": "*"
     },
-    "testDependencies": {}
+    "files": [
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "targetVersions": {
+        "branch": "v2.0.56",
+        "tag": "v2.0.56",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/2e47d3464cf6ea715ec6e630834bbe15bc2f6feb",
+        "target": "2.0.56",
+        "pxt": "11.3.59"
+    },
+    "preferredEditor": "tsprj",
+    "palette": [
+        "#000000",
+        "#10539F",
+        "#194576",
+        "#102C4D",
+        "#0D1B2B",
+        "#9F4310",
+        "#763619",
+        "#4D2310",
+        "#2B160D",
+        "#109F9F",
+        "#19766E",
+        "#104D45",
+        "#0D2B25",
+        "#38109F",
+        "#2F1976",
+        "#140D2B"
+    ]
 }
