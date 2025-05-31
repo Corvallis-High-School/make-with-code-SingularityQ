@@ -8,7 +8,7 @@ namespace myTiles {
     helpers._registerFactory("tilemap", function(name: string) {
         switch(helpers.stringTrim(name)) {
             case "level1":
-            case "level1":return tiles.createTilemap(hex`0700070001010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101`, img`
+            case "level1":return tiles.createTilemap(hex`09000800010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101`, img`
 . . . . . . . 
 . . . . . . . 
 . . . . . . . 

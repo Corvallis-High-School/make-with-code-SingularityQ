@@ -25,6 +25,10 @@ let queuedMovementY = 0
 tiles.setCurrentTilemap(tilemap`level1`)
 mainPlayer = sprites.create(assets.image`GearAnimation1`, SpriteKind.Player)
 tiles.placeOnTile(mainPlayer, tiles.getTileLocation(3, 0))
+namespace userconfig {
+    export const ARCADE_SCREEN_WIDTH = 144
+    export const ARCADE_SCREEN_HEIGHT = 112
+}
 
 controller.up.onEvent(ControllerButtonEvent.Pressed, function () {
     playerX = mainPlayer.tilemapLocation().column
@@ -61,3 +65,5 @@ game.onUpdate(() => {
     
     
 });
+game.onUpdateInterval(500, function () {
+})
